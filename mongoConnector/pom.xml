@@ -15,7 +15,7 @@
 	<name>mongoConnector</name>
 	<description>Mongo Connector Basic</description>
 	<properties>
-		<java.version>20</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
